@@ -70,7 +70,7 @@ Welcome to the official **Garage of Awesome** GitHub space! Here, you'll find al
 | 📚 [Internal Security configuration]({{ MAIN_DOCS_URL }}) | Core documentation for Internal security configuration. |
 | 🛠️ [Essential Eight](https://github.com/Garage-of-Awesome/Essential-eight) | Technical documentation for Essential Eight compliance. |
 
-### <img src="/Entra.svg" width="40" height="40"> Entra
+### <img src="/Azure.png" width="40" height="40"> Entra
 
 | 📂 Repository  | 📜 Description |
 |---------------|---------------|
@@ -79,13 +79,13 @@ Welcome to the official **Garage of Awesome** GitHub space! Here, you'll find al
 | 🔐 [Internal Tenant Review process](https://github.com/Garage-of-Awesome/IntuneConfig) | Internal process for tenant reviews. |
 | 🛠️ [Self Service Password Reset](https://github.com/Garage-of-Awesome/SSPRDoco) | Self service password reset roll out process. |
 
-### <img src="/Copilot.svg" width="40" height="40"> Copilot
+### <img src="/Copilot.png" width="40" height="40"> Copilot
 
 | 📂 Repository  | 📜 Description |
 |---------------|---------------|
 | 📚 [Copilot ready check](https://github.com/Garage-of-Awesome/CopilotReady) | Copilot ready check process. |
 
-### <img src="/PowerPlatform.svg" width="40" height="40"> PowerPlatform
+### <img src="/PowerPlatform.png" width="40" height="40"> PowerPlatform
 
 | 📂 Repository  | 📜 Description |
 |---------------|---------------|
