@@ -11,35 +11,85 @@ Welcome to the official **Garage of Awesome** GitHub space! Here, you'll find al
 
 ## 📖 Documentation Repositories  
 
-Explore our key documentation resources:
+
+### ![Intune Logo](/Intune.png) Microsoft Intune
+
+| 📂 Repository  | 📜 Description |
+|---------------|---------------|
+| 📚 [Intune app deployment](https://github.com/Garage-of-Awesome/AppDeployment) | Documentation for Intune app deployment using Robopack. |
+| 🛠️ [Internal Intune configuration](https://github.com/Garage-of-Awesome/IntuneConfig) | Internal Intune configuration as JSON. |
+
+
+### ![Github Logo](/Github.png) Github
+
+| 📂 Repository  | 📜 Description |
+|---------------|---------------|
+| 📚 [Internal Github documentation]({{ MAIN_DOCS_URL }}) | How to contribute, and how we use Github internally.|
+
+### ![Cloudflare Logo](/Cloudflare.png) DNS
+
+| 📂 Repository  | 📜 Description |
+|---------------|---------------|
+| 📚 [Main Docs]({{ MAIN_DOCS_URL }}) | Core documentation for our projects. |
+
+### ![Microsoft Exchange](/Exchange.png) Microsoft Exchange
 
 | 📂 Repository  | 📜 Description |
 |---------------|---------------|
 | 📚 [Main Docs]({{ MAIN_DOCS_URL }}) | Core documentation for our projects. |
 | 🛠️ [Developer Guide]({{ DEV_GUIDE_URL }}) | Technical documentation for developers. |
 | 🔐 [Security Policies]({{ SECURITY_DOCS_URL }}) | Security and compliance guidelines. |
-| 🚀 [Deployment Guide]({{ DEPLOYMENT_DOCS_URL }}) | Step-by-step deployment instructions. |
-| 🏗️ [Infrastructure Docs]({{ INFRA_DOCS_URL }}) | Internal infrastructure and DevOps guides. |
-| 🎨 [UI/UX Design Guide]({{ UIUX_GUIDE_URL }}) | Design system and branding guidelines. |
 
 
----
+### ![Groups Logo](/Groups.png) Microsoft Groups
 
-## ![Intune Logo](/Intune.png) Microsoft Intune
+| 📂 Repository  | 📜 Description |
+|---------------|---------------|
+| 📚 [Main Docs]({{ MAIN_DOCS_URL }}) | Core documentation for our projects. |
 
-## ![Github Logo](/Github.png) Github
 
-## ![Cloudflare Logo](/Cloudflare.png) DNS
+### <img src="/opnsense.png" width="40" height="40"> Networking
 
-## ![Microsoft Exchange](/Exchange.png) Microsoft Exchange
+| 📂 Repository  | 📜 Description |
+|---------------|---------------|
+| 📚 [Main Docs]({{ MAIN_DOCS_URL }}) | Core documentation for our projects. |
 
-## ![Groups Logo](/Groups.png) Microsoft Groups
 
-## <img src="/opnsense.png" width="40" height="40"> Networking
+### <img src="/purview.png" width="40" height="40"> Microsoft Purview
 
-## <img src="/purview.png" width="40" height="40"> Microsoft Purview
+| 📂 Repository  | 📜 Description |
+|---------------|---------------|
+| 📚 [Main Docs]({{ MAIN_DOCS_URL }}) | Core documentation for our projects. |
+| 🛠️ [Developer Guide]({{ DEV_GUIDE_URL }}) | Technical documentation for developers. |
 
-## <img src="/Defender.svg" width="40" height="40"> Security
+
+### <img src="/Defender.svg" width="40" height="40"> Security
+
+| 📂 Repository  | 📜 Description |
+|---------------|---------------|
+| 📚 [Internal Security configuration]({{ MAIN_DOCS_URL }}) | Core documentation for Internal security configuration. |
+| 🛠️ [Essential Eight](https://github.com/Garage-of-Awesome/Essential-eight) | Technical documentation for Essential Eight compliance. |
+
+### <img src="/Entra.svg" width="40" height="40"> Entra
+
+| 📂 Repository  | 📜 Description |
+|---------------|---------------|
+| 📚 [Entra Cloud Sync](https://github.com/Garage-of-Awesome/CloudSync) | Documentation fro configuration of Entra Cloudsync. |
+| 🛠️ [Essential Eight](https://github.com/Garage-of-Awesome/Essential-eight) | Technical documentation for Essential Eight compliance. |
+| 🔐 [Internal Tenant Review process](https://github.com/Garage-of-Awesome/IntuneConfig) | Internal process for tenant reviews. |
+| 🛠️ [Self Service Password Reset](https://github.com/Garage-of-Awesome/SSPRDoco) | Self service password reset roll out process. |
+
+### <img src="/Copilot.svg" width="40" height="40"> Copilot
+
+| 📂 Repository  | 📜 Description |
+|---------------|---------------|
+| 📚 [Copilot ready check](https://github.com/Garage-of-Awesome/CopilotReady) | Copilot ready check process. |
+
+### <img src="/PowerPlatform.svg" width="40" height="40"> PowerPlatform
+
+| 📂 Repository  | 📜 Description |
+|---------------|---------------|
+| 📚 [Copilot ready check](https://github.com/Garage-of-Awesome/CopilotReady) | Copilot ready check process. |
 
 ## 🏆 Our Achievements  
 
